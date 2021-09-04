@@ -3,3 +3,21 @@
 	height: 800px;
 	object-fit: cover;
 }
+body {
+    background-color: rgb(69, 69, 69);
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(311deg, red    20%, 
+    green  20%, 
+    green  40%, 
+    blue   40%, 
+    blue   60%, 
+    purple 60%, 
+    purple 80%, 
+    yellow 80%,
+    yellow 100%);
+    background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
